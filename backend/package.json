@@ -13,11 +13,10 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "express-query-int": "^1.0.1",
     "lodash": "^4.17.4",
     "mongoose": "^5.0.0",
     "mongoose-paginate": "^5.0.3",
-    "node-restful": "^0.2.5",
+    "node-restful": "^0.2.6",
     "pm2": "^2.1.5"
   },
   "devDependencies": {
