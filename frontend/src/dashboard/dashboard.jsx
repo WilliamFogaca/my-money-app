@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 import ContentHeader from '../common/template/contentHeader'
 import Content from '../common/template/content'
-import Grid from '../common/layout/grid'
+
 
 class Dashboard extends Component {
   render() {
