@@ -28,7 +28,7 @@ Em outra janela do terminal, executar o frontend da aplicação
 
 Opção 1: Abrir aplicação em ambiente de produção
 * $ npm run production
-* Abra o 'index.html' em 'todo-app-react/frontend/public/index.html'
+* Abra o 'index.html' em 'my-money-app/frontend/public/index.html'
 
 Opção 2: Abrir aplicação em ambiente de desenvolvimento
 * $ npm run dev
