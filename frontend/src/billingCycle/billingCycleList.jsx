@@ -11,9 +11,8 @@ class BillingCycleList extends Component {
 
   renderRows() {
     const list = this.props.list || []
-    const listSortByMonth = list.sort((a,b) => a.month < b.month ? -1 : a.month > b.month ? 1 : 0)
     
-    return listSortByMonth.map(bc => (
+    return list.map(bc => (
       <tr key={bc._id}>
         <td>{bc.name}</td>
         <td>{bc.month}</td>
